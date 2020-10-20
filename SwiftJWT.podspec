@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "An implementation of JSON Web Token using Swift."
   s.homepage     = "https://github.com/Kitura-Next/Swift-JWT"
   s.license      = { :type => "Apache License, Version 2.0" }
-  s.authors      = 'IBM'
+  s.authors      = 'Kitura-Next'
   s.module_name  = 'SwiftJWT'
   s.osx.deployment_target = "10.13"
   s.ios.deployment_target = "11.0"
